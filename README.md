@@ -2,4 +2,4 @@
 Talent Map capstone project - devlopment env
 
 
-![]{images/home.png}
+![](images/home.png)
